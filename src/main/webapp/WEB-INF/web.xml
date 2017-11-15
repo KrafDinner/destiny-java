@@ -12,6 +12,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>DestinyClanAdvisor</servlet-name>
-        <url-pattern>/v1/*</url-pattern>
+        <url-pattern>/api/*</url-pattern>
     </servlet-mapping>
 </web-app>
