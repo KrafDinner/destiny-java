@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/dependency/jetty-runner-9.4.7.v20170914.jar target/*.war
